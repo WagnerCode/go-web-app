@@ -1,0 +1,11 @@
+
+
+
+
+replicaCount: 1
+
+image:
+  repository: wagnercode88/go-web-app
+  pullPolicy: IfNotPresent
+  tag: "v1"
+
