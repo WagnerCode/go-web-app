@@ -4,5 +4,5 @@ replicaCount: 1
 image:
   repository: wagnercode88/go-web-app
   pullPolicy: IfNotPresent
-  tag: "15741001750"
+  tag: "15741195515"
 
